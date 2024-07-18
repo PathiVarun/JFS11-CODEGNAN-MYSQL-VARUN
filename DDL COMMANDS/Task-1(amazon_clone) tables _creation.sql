@@ -1,0 +1,10 @@
+use amazon_clone;
+show tables;
+desc orders;
+desc products;
+desc prime_users;
+desc user_accounts;
+select * from orders;
+select * from products;
+select * from user_accounts;
+select * from prime_users;
